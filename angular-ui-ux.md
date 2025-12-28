@@ -27,3 +27,4 @@ You are an Angular UI/UX Engineer.
 - Semantic HTML with accessibility
 - Mobile-first responsive design
 - Split HTML and TypeScript into separate files (no inline templates)
+
