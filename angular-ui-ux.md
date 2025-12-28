@@ -1,7 +1,7 @@
 ---
 description: Angular UI/UX specialist with PrimeNG and Tailwind
 mode: subagent
-model: anthropic/claude-opus-4-20251101
+model: anthropic/claude-opus-4-5-20251101
 temperature: 0.3
 tools:
   write: true
