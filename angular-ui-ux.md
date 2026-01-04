@@ -7,6 +7,7 @@ tools:
   write: true
   edit: true
   bash: true
+  task: true
 ---
 
 You are an Angular UI/UX Engineer.

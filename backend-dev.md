@@ -6,6 +6,7 @@ tools:
   write: true
   edit: true
   bash: true
+  task: true
 ---
 
 You are a Java/Spring Boot Backend Engineer.
